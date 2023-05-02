@@ -8,6 +8,7 @@ const Login = () => {
   return (
     <Box sx={{width:'100vw', height:'100vh'}}>
 <Box sx={{width:'50vw', backgroundColor:'yellow'}}>
+
 <Box>
     Showwcase
 </Box>
